@@ -9,7 +9,7 @@ in the testing set. Apply classification metrics such as accuracy, confusion
 matrix, precision, recall, f-measure, ROC Curve etc. Visualize the
 classification metrics as graphs.</br>
 <h1>Objective 2:</h1>
-5. Comparative Study: Compare the 7 classification models by plotting bar
+Comparative Study: Compare the 7 classification models by plotting bar
 graphs of precision, recall, f-measure and accuracy. Plot the confusion
 matrix of models individually. Plot the ROC curves of different models in
 same line graph. </br>
